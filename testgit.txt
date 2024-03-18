@@ -2,9 +2,6 @@ linea 1 nueva
 primera linea de la primera version
 linea 2
 subir a github
-<<<<<<< HEAD
 modificando en brnach-testing
 test para delbri
-=======
 modificado del clon
->>>>>>> d6873a08f49e9799c4bc9c0a3489d5865a05794f
